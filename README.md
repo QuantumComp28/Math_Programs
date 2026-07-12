@@ -13,4 +13,5 @@ with a numerical approximation of about -0.5300764681160107.
 
 ## **Prime Factorization**
 Here is an example running the Prime_factorization.py code for the number 3600:
+
 <img width="399" height="125" alt="image" src="https://github.com/user-attachments/assets/57edb9f1-84b8-4057-affa-d6c0707ee579" />
